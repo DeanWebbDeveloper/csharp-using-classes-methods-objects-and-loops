@@ -1,0 +1,10 @@
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.deps.json
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.json
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.dev.json
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.pdb
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfoInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfo.cs
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-classes-methods-objects-and-loops\1 - Methods\1.1 - Methods\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.pdb
